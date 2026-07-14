@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+build/
+install/
+log/
+*.bag
+*.db3
+data/logs/*.csv
+data/live_status.json
+results/*.png
+.DS_Store
